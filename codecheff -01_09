@@ -1,0 +1,14 @@
+#Economics Class
+#Problem
+#Alice has recently learned in her economics class that the market is said to be in equilibrium when the supply is equal to the demand.
+n=int(input())
+
+for TC in range(n):
+    s=int(input())
+    a=list(map(int,input().split(' ')))
+    b=list(map(int,input().split(' ')))
+    count=0
+    for i in range(s):
+        if a[i]==b[i]:
+           count +=1
+    print(count)
