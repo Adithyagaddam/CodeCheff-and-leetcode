@@ -1,13 +1,6 @@
-paticipated in code cheff contest
-some of the questions i have done in the code cheff contest
-code cheff september contest division four 
-stater 57 contest questions
-leet code question which i hvae done in leed code platform are uploaded in this repository
-september lunchtime contest problems
-and also in october contest problems 
-stareters 60
-starters 61 contest
-leetcode questions
-contest no starters 62
-practice code for levelingup stars in codecheff
-
+</a>
+  <a href="https://www.codechef.com/users/adithya_2310">
+    <img src="https://img.shields.io/badge/CODECHEF-0077B5?&style=plastic&logo=CODECHEF&logoColor=white" height=50></a>
+  <a href="https://leetcode.com/adithyagaddam/">
+    <img src="https://img.shields.io/badge/LeetCode-0077B5?&style=plastic&logo=LeetCode&logoColor=white" height=50></a>
+</p>
