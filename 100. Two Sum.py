@@ -5,4 +5,5 @@ class Solution:
             if target- ele in dict:
                 return dict[target- ele], index
             dict[ele]= index
+   #two sun
         
